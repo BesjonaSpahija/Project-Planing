@@ -2,6 +2,9 @@ Software-Planung
 
 Team: Besjona Spahija, Fatjona Ceni
 
+
+------------
+
 Projekt Notenverwaltungsystem
 
 Dieses Projekt beinhaltet ein Notenverwaltungssystem für eine Schule. Es gibt verschiedene Rollen, die unterschiedliche Rechte haben. z.B. können Eltern nur die Noten ihres Kindes sehen. Lehrer können die Noten für ihr Fach eingeben und bearbeiten. Der Schulleiter kann alle Noten für alle Fächer sehen und bearbeiten.
